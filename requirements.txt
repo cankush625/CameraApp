@@ -1,0 +1,12 @@
+appdirs==1.4.3
+distlib==0.3.0
+filelock==3.0.12
+numpy==1.18.2
+opencv-python==4.2.0.32
+pbr==5.4.4
+six==1.14.0
+stevedore==1.32.0
+virtualenv==20.0.13
+virtualenv-clone==0.5.3
+virtualenvwrapper==4.8.4
+virtualenvwrapper-win==1.2.6
