@@ -2,7 +2,7 @@ appdirs==1.4.3
 distlib==0.3.0
 filelock==3.0.12
 numpy==1.18.2
-opencv-python==4.2.0.32
+opencv-python==4.8.1.78
 pbr==5.4.4
 six==1.14.0
 stevedore==1.32.0
